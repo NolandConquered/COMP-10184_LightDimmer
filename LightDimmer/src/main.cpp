@@ -1,3 +1,6 @@
+// I, Nolan Carter, student number 000817341, certify that this material is my original work.
+// No other person's work has been used without due acknowledgement and neither have I made my work available to anyone else.
+
 #include <Arduino.h>
 int led; // stores weither the led should be on or off
 
